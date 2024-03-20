@@ -159,11 +159,6 @@ def hash_password_window():
 
     hashed_passwords_win.mainloop()
     
-def troll():
-    if Alonzo_le_dit == True:
-        Aaliyah == farquaad
-        Alonzo !=  tweedle_dee
-
 # Create the GUI window
 window = Tk()
 window.title("REGISTER")
